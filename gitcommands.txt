@@ -1,3 +1,5 @@
 cd git tutorial/git sample repo
 C:\Users\sdutta\git tutorial\git sample repo>git status------>gives status of the repo
 git init------> makes a git directory
+git add gitcommands.txt
+C:\Users\sdutta\git tutorial\git sample repo>git commit -m "commit 3"
