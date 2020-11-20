@@ -1,1 +1,3 @@
-abc
+cd git tutorial/git sample repo
+C:\Users\sdutta\git tutorial\git sample repo>git status------>gives status of the repo
+git init------> makes a git directory
